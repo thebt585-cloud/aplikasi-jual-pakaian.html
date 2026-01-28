@@ -1,4 +1,4 @@
-# aplikasi-jual-pakaian.html
+[aplikasi jual pakaian.html](https://github.com/user-attachments/files/24914215/aplikasi.jual.pakaian.html)
 <!DOCTYPE html>
 <html lang="id">
 <head>
@@ -143,15 +143,15 @@ button{
   <input id="nama" placeholder="Nama">
   <textarea id="alamat" placeholder="Alamat lengkap"></textarea>
 
-  <button class="qris" onclick="alert('QRIS: "+6285123622237")">QRIS</button>
-  <button class="gopay" onclick="alert('GoPay: "+6285123622237")">GoPay</button>
-  <button class="dana" onclick="alert('DANA: "+6285123622237")">DANA</button>
+  <button class="qris" onclick="alert('QRIS: +6285123622237')">QRIS</button>
+  <button class="gopay" onclick="alert('GoPay: +6285123622237')">GoPay</button>
+  <button class="dana" onclick="alert('DANA: +6285123622237')">DANA</button>
   <button class="wa" onclick="checkout()">Checkout & Invoice</button>
 </div>
 
 </div>
 
-<a class="sticky-wa" href="https://wa.me/"+6285123622237">💬 Chat WhatsApp</a>
+<a class="sticky-wa" href="https://wa.me/+6285123622237">💬 Chat WhatsApp</a>
 
 <audio id="notif">
   <source src="https://actions.google.com/sounds/v1/cartoon/clang_and_wobble.ogg">
@@ -229,7 +229,7 @@ function checkout(){
   });
 
   text+=`%0ATotal: Rp ${total.toLocaleString()}`;
-  window.open(`https://wa.me/085123622237?text=${text}`);
+  window.open(`https://wa.me/+6285123622237?text=${text}`);
 }
 </script>
 
