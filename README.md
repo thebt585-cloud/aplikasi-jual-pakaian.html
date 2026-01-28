@@ -1,4 +1,3 @@
-[aplikasi jual pakaian.html](https://github.com/user-attachments/files/24914215/aplikasi.jual.pakaian.html)
 <!DOCTYPE html>
 <html lang="id">
 <head>
