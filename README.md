@@ -151,7 +151,7 @@ button{
 
 </div>
 
-<a class="sticky-wa" href="https://wa.me/085123622237">💬 Chat WhatsApp</a>
+<a class="sticky-wa" href="https://wa.me/"+6285123622237">💬 Chat WhatsApp</a>
 
 <audio id="notif">
   <source src="https://actions.google.com/sounds/v1/cartoon/clang_and_wobble.ogg">
