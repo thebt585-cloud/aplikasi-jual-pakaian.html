@@ -143,9 +143,9 @@ button{
   <input id="nama" placeholder="Nama">
   <textarea id="alamat" placeholder="Alamat lengkap"></textarea>
 
-  <button class="qris" onclick="alert('QRIS: "085123622237")">QRIS</button>
-  <button class="gopay" onclick="alert('GoPay: "085123622237")">GoPay</button>
-  <button class="dana" onclick="alert('DANA: "085123622237")">DANA</button>
+  <button class="qris" onclick="alert('QRIS: "+6285123622237")">QRIS</button>
+  <button class="gopay" onclick="alert('GoPay: "+6285123622237")">GoPay</button>
+  <button class="dana" onclick="alert('DANA: "+6285123622237")">DANA</button>
   <button class="wa" onclick="checkout()">Checkout & Invoice</button>
 </div>
 
